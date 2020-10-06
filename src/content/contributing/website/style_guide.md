@@ -28,6 +28,7 @@ Coastguard | The project name *Coastguard* should always be capitalized.
 Globalnet | The feature name *Globalnet* is one word, and so should always be capitalized and should have a lowercase "n".
 iptables | The application *iptables* consistently uses all-lowercase. Follow their convention, but avoid starting a sentence with "iptables".
 Lighthouse | The project name *Lighthouse* should always be capitalized.
+Multi-cluster | The term *multi-cluster* should always be hyphenated.
 Operator | The design pattern *Operator* should always be capitalized.
 Shipyard | The project name *Shipyard* should always be capitalized.
 `subctl` | The artifact `subctl` should not be capitalized and should be formatted in code style.
